@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"vornaspotify","appId":"1:437980290454:android:2806da1a2155faad6791b7","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"vornaspotify","configurations":{"android":"1:437980290454:android:2806da1a2155faad6791b7","ios":"1:437980290454:ios:5410cdc2076be6666791b7"}}}}}}
