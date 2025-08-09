@@ -1,16 +1,24 @@
-# spotify_app
+# Spotify App
 
-A new Flutter project.
+A Flutter-based music player app built with clean architecture and Firebase integration. It supports user authentication, audio playback, and state management using modern Flutter packages.
+
+## Features
+- Clean architecture for scalable code structure
+- Firebase authentication and Firestore database
+- Audio playback with just_audio package
+- State management using flutter_bloc and hydrated_bloc
+- Support for SVG assets, custom fonts, and animations
+
+## Tech Stack
+- Flutter
+- Dart
+- Firebase (Authentication, Firestore)
+- flutter_bloc & hydrated_bloc
+- just_audio
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/yourusername/spotify_app.git
+cd spotify_app
+flutter pub get
+flutter run
